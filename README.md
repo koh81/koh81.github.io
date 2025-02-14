@@ -45,5 +45,5 @@ Thank you for visiting my portfolio! Feel free to explore each site and reach ou
 ---
 
 ## Contact Me
-- [LinkedIn](www.linkedin.com/in/carlos-andres-orozco-hernandez-a431468a)
+- [LinkedIn](https://www.linkedin.com/in/carlos-andres-orozco-h/)
 - [GitHub](https://github.com/koh81)
